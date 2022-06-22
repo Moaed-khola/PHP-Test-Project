@@ -1,8 +1,8 @@
 <?php
 
-$servername = "192.168.43.44:31316";
-$username = "user1";
-$password = "T-2121-t";
+$servername = "192.168.43.44:3306";
+$username = "user";
+$password = "2121";
 $db = "onlineshop";
 
 // Create connection
