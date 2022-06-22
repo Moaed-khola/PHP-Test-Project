@@ -1,12 +1,12 @@
 <?php
 
 $servername = "192.168.43.44";
-$username = "test";
+$username = "user";
 $password = "2121";
 $db = "onlineshop";
 
 // Create connection
-$con = mysqli_connect($servername, $username, $password,$db,15508);
+$con = mysqli_connect($servername, $username, $password,$db,37697);
 
 // Check connection
 if (!$con) {
