@@ -6,7 +6,7 @@ $password = "2121";
 $db = "onlineshop";
 
 // Create connection
-$con = mysqli_connect($servername, $username, $password,$db,46589);
+$con = mysqli_connect($servername, $username, $password,$db,32574);
 
 // Check connection
 if (!$con) {
